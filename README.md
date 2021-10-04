@@ -9,5 +9,11 @@ Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Ke-1
 ### 💡 Persyaratan
 - Python 3.x.x
 
+### 🔭 Reference & Tools
+- Archcraft Distro Linux
+- Visual Studio Code
+- [App Diagrams](https://app.diagrams.net/)
+- Github
+
 ### 🔐 Lisensi
 This Application is OpenSource under MIT License
