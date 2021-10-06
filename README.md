@@ -12,6 +12,7 @@ Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Ke-1
 ### 🔭 Reference & Tools
 - Archcraft Distro Linux
 - Visual Studio Code
+- VSCode Theme by Ayu Dark Mirage & Atom One Light
 - [App Diagrams](https://app.diagrams.net/)
 - Github
 
